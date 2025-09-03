@@ -17,7 +17,7 @@ My pookalam has generated based on pure html and css code with a kathakali at th
 
  Preview
  
-(pookalam/output-output.png)
+Screenshot 2025-09-03 152415.png
 
  Features:
  
